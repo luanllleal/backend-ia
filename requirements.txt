@@ -1,0 +1,8 @@
+openai
+python-dotenv
+azure-cognitiveservices-speech
+opencv-python
+mediapipe
+pillow
+requests
+pyautogui
